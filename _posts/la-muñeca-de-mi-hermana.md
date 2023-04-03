@@ -1,6 +1,6 @@
 ---
-title: 'La sexdoll'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: 'La muñeca de mi hermana'
+description: Escrito corto.
 date: '2023/03/23'
 modified_date: '2023/03/23'
 image: /assets/images/posts/random-img.jpg
