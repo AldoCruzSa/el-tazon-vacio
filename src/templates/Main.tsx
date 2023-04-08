@@ -1,6 +1,7 @@
 import React, { ReactNode } from "react";
 
 import Link from "next/link";
+import Head from "next/head";
 
 import { Navbar } from "../navigation/Navbar";
 import { AppConfig } from "../utils/AppConfig";
@@ -14,6 +15,9 @@ type IMainProps = {
 const Main = (props: IMainProps) => {
   return (
     <>
+      <Head>
+        <meta name="viewport" content="widht=device-width, initial-scale=1.0" />
+      </Head>
       <Header />
       <div className="antialiased w-full text-gray-700 px-3 md:px-0">
         {props.meta}
