@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import { ReactNode } from "react";
 
 import Link from "next/link";
 import Head from "next/head";
@@ -7,12 +7,14 @@ import { Navbar } from "../navigation/Navbar";
 import { AppConfig } from "../utils/AppConfig";
 import { Header } from "./Header";
 
+import * as React from "react";
+
 type IMainProps = {
   meta: ReactNode;
   children: ReactNode;
 };
 
-const Main = (props: IMainProps) => {
+const Main = ({ meta, children }: IMainProps) => {
   return (
     <>
       <Head>
@@ -20,7 +22,7 @@ const Main = (props: IMainProps) => {
       </Head>
       <Header />
       <div className="antialiased w-full text-gray-700 px-3 md:px-0">
-        {props.meta}
+        {meta}
 
         <div className="max-w-screen-md mx-auto">
           <div className="border-b border-gray-300">
@@ -40,7 +42,7 @@ const Main = (props: IMainProps) => {
             </div>
           </div>
 
-          <div className="text-xl py-5">{props.children}</div>
+          <div className="text-xl py-5">{children}</div>
 
           <div className="border-t border-gray-300 text-center py-8 text-sm">
             © Copyright {new Date().getFullYear()} {AppConfig.title}.

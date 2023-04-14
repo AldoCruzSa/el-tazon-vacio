@@ -3,7 +3,7 @@ title: 'Acné y la mafía de los perros'
 description: Escrito corto.
 date: '2023/04/04'
 modified_date: '2023/04/04'
-image: /assets/images/posts/random-img.jpg
+image: /assets/images/posts/la_mafia_de_los_perros.jpg
 ---
 
 Tenía varios kilos debajo de mi peso. Intentaba comer más y hacer ejercicio, pero parecía inútil. Jamás fui muy deportivo; saltaba la cuerda y hacia flexiones de vez en cuando pero luego perdía todo interés, semanas después intentaba de nuevo, perdía el interés y así una y otra vez. Intentaba de alguna manera llamar la atención de las chicas. No me atrevía a hablarles porque no sabía cómo llegar de punto A a punto B.

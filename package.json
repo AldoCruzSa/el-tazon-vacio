@@ -12,7 +12,11 @@
     "build-types": "tsc --noEmit --pretty"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/roboto": "^4.5.8",
     "@mapbox/rehype-prism": "^0.7.0",
+    "@mui/material": "^5.11.16",
     "@vercel/analytics": "^0.1.11",
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",

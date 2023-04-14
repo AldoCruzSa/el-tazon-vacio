@@ -3,7 +3,7 @@ title: 'Etiquetas'
 description: Escrito corto.
 date: '2023/04/03'
 modified_date: '2023/04/03'
-image: /assets/images/posts/random-img.jpg
+image: /assets/images/posts/etiquetas.jpg
 ---
 
 En el primer semestre de preparatoria en uno de esos días en los que al profesor se le había dado la gana no llegar a clase nos encontrábamos todos de lo más felices hablando unos con otros. Algunas veces cuando esto ocurría nos mandaban a las psicólogas de la escuela para “no malgastar” el tiempo destinado a la materia en cuestión. Por aquel entonces no le tenía mucho respeto a la psicología, y debo confesar que mi opinión no ha cambiado mucho con el paso de los años, pero si nunca consideré estudiar psicología era simplemente porque no conocía a muchos practicantes de esta carrera bien pagados y yo quería muchos billetes para malgastarlo en sabrá Dios qué cosas. 

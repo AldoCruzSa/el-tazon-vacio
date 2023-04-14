@@ -3,7 +3,7 @@ title: 'La muñeca de mi hermana'
 description: Escrito corto.
 date: '2023/03/23'
 modified_date: '2023/03/23'
-image: /assets/images/posts/random-img.jpg
+image: /assets/images/posts/la_sexdoll.jpg
 ---
 
 A las 10:30 AM nos daban el primero de dos recesos. Yo me sentaba sin nada que hacer en una de esas bancas metálicas incomodas de escuela pública, estaba claro que no eran seda para el trasero pero eran mejor que las butacas de los salones en los que pasábamos cinco horas sentados. Me hacían compañía mis dos únicos amigos. No había mucho que decir y uno de ellos, Diego, no hablaba a menos que le hicieras preguntas directas, y aun así tardaba un minuto en responderte, a veces creías que era algo retrasado. Diego era bajito y su pelo era corto, te hacía pensar en el pelo que algunas veces les sale a las patatas, además tenía los ojos bizcos, por lo que calificaba perfectamente para ser etiquetado como inadaptado. Todos lo llamaban "el bizcocho" por obvias razones, y no creo que le agradara mucho el apodo, pero a cuántas personas les gustan sus apodos en secundaria.
