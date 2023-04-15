@@ -16,7 +16,7 @@ type IMainProps = {
 
 const Main = ({ meta, children }: IMainProps) => {
   return (
-    <>
+    <div style={{margin: 0, padding: 0}}>
       <Head>
         <meta name="viewport" content="widht=device-width, initial-scale=1.0" />
       </Head>
@@ -25,7 +25,7 @@ const Main = ({ meta, children }: IMainProps) => {
         {meta}
 
         <div className="max-w-screen-md mx-auto">
-          <div className="border-b border-gray-300">
+          <div>
             <div>
               <Navbar>
                 <li className="mr-6">
@@ -49,7 +49,7 @@ const Main = ({ meta, children }: IMainProps) => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

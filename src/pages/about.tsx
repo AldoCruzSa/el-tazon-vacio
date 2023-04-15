@@ -21,8 +21,8 @@ const About = () => {
             src={`${router.basePath}/assets\\images/about.jpg`}
             alt="hombre leyendo en un sofa"
             style={{
-              height: "12rem",
-              width: "12rem",
+              height: "10rem",
+              width: "10rem",
               borderRadius: "50%"
             }}
           />

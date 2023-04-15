@@ -6,15 +6,15 @@ import { AppConfig } from "../utils/AppConfig";
 const Header = () => {
   const router = useRouter();
   const container = {
-    backgroundColor: "#06337a",
+    background: 'linear-gradient(to bottom, #0f2e61, #0b4fbd)',
     display: "flex",
     alignItems: "center",
     paddingLeft: "5%",
     paddingRight: "5%",
-    marginBottom: "2rem",
+    marginBottom: "1.5rem",
     width: "100%",
-    paddingBottom: "1%",
-    paddingTop: "1%",
+    paddingBottom: "0.2rem",
+    paddingTop: "0.2rem",
   };
 
   return (
@@ -22,7 +22,7 @@ const Header = () => {
       <img
         src={`${router.basePath}/assets\\images/logo.png`}
         alt="logo"
-        style={{ maxWidth: "7rem", height: "auto", marginRight: "1rem" }}
+        style={{ maxWidth: "6rem", height: "auto", marginRight: "1rem" }}
       />
       <div>
         <div

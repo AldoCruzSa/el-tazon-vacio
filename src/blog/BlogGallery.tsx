@@ -17,13 +17,13 @@ export type IBlogGalleryProps = {
 };
 
 const BlogGallery = (props: IBlogGalleryProps) => (
-  <>
+  <div>
     <ul>
       {props.posts.map((elt) => (
         <li key={elt.slug} className="mb-3 flex justify-between">
           <Link href="/posts/[slug]" as={`/posts/${elt.slug}`}>
             <a>
-              <Card sx={{ display: "flex" }}>
+              <Card>
                 <CardActionArea sx={{ display: "flex", flexDirection: "row" }}>
                   <CardMedia
                     component="img"
@@ -31,7 +31,7 @@ const BlogGallery = (props: IBlogGalleryProps) => (
                     alt="post image"
                     sx={{ width: "8rem" }}
                   />
-                  <CardContent sx={{ width: "22rem" }}>
+                  <CardContent sx={{ width: "20rem" }}>
                     <Typography gutterBottom variant="h5" component="div">
                       {elt.title}
                     </Typography>
@@ -51,7 +51,7 @@ const BlogGallery = (props: IBlogGalleryProps) => (
       previous={props.pagination.previous}
       next={props.pagination.next}
     />
-  </>
+  </div>
 );
 
 export { BlogGallery };
