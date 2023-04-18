@@ -6,7 +6,7 @@ import { AppConfig } from "../utils/AppConfig";
 const Header = () => {
   const router = useRouter();
   const container = {
-    background: 'linear-gradient(to bottom, #0f2e61, #0b4fbd)',
+    background: 'linear-gradient(to bottom, #000000, #3e423f)',
     display: "flex",
     alignItems: "center",
     paddingLeft: "5%",
@@ -22,7 +22,7 @@ const Header = () => {
       <img
         src={`${router.basePath}/assets\\images/logo.png`}
         alt="logo"
-        style={{ maxWidth: "6rem", height: "auto", marginRight: "1rem" }}
+        style={{ maxWidth: "5rem", height: "auto", marginRight: "1rem" }}
       />
       <div>
         <div
